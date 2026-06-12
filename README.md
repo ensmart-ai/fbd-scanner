@@ -1,5 +1,7 @@
 # FBD Scanner
 
+# EnSmart FBD Scanner – Free Function Block Diagram Scanner
+
 FBD Scanner is a free engineering utility developed by EnSmart Controls for Building Management System (BMS) professionals.
 
 The tool helps engineers analyze and troubleshoot communication across BACnet, Modbus, and iBus networks, making commissioning and integration faster and more reliable.
